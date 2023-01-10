@@ -10,4 +10,10 @@ It enhances efficiency, reusability and abstraction.
 Various Data Structures codes are present including 
 -> Array
 -> Linkedlist
--> 
+-> Graph
+-> Stack
+
+Searching and Algorithms include :
+-> Binary Search
+-> Dynamic Programming
+```
